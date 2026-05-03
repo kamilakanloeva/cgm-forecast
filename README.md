@@ -32,7 +32,6 @@ python run_sensitivity.py
 Файл `glucose_588.csv` содержит одномерный ряд глюкозы пациента 588.
 Исходный XML-файл получен из датасета OhioT1DM и доступен по запросу:
 Marling C., Bunescu R. The OhioT1DM Dataset, 2020.
-https://doi.org/10.35841/2020-14.6.963
 
 ## Структура проекта
 ```
